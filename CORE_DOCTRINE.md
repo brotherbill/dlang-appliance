@@ -1,210 +1,302 @@
 # CORE_DOCTRINE.md
 ###### /dev/repos/dlang-appliance/CORE_DOCTRINE.md
 
-# Core Doctrine of the D Learning Appliance  
-# Moral Purpose. Controlled Growth. Integrity Over Scale. Private and Not for Sale.
+# Core Doctrine  
+# Non‑Negotiable. Operator‑Grade. Deterministic.
 
-This file defines the foundational principles that govern the D Learning Appliance, the curriculum, the support model, the sales model, and the long‑term stewardship of the system.  
-It explains why the appliance must remain private, why it cannot be sold, and why it must grow only at a rate that preserves integrity, fairness, and support capacity.
-
-A man’s got to know his limitations.  
-This file defines the organization’s.
+This file defines the foundational principles governing the dlang‑appliance, dlang.school, and RCA ecosystem.  
+All other doctrine files inherit from this one.  
+No changes may be made without explicit authorization from Brother Bill.
 
 ---
 
-## 1. MORAL PURPOSE RULE
-The D Learning Appliance exists to serve families, not markets.  
-Its purpose is educational, not commercial.  
-Its mission is to provide a safe, deterministic, principled learning environment for students.
+## 1. MORAL PURPOSE
+The ecosystem exists to:
+- teach real engineering discipline  
+- protect students from commercial manipulation  
+- provide handcrafted, human‑authored curriculum  
+- maintain a safe, predictable learning environment  
+- preserve privacy, autonomy, and agency  
 
-The system must never be repurposed for:
-
-- profit maximization  
-- market capture  
-- investor expectations  
-- growth pressure  
-- privilege‑based access  
-
-The mission is moral, not financial.
+The system is not a funnel.  
+It is a moral project with a commercial backbone.
 
 ---
 
-## 2. PRIVACY AND NON‑SALE RULE
-The D Learning Appliance, its doctrine, its Golden Master, its RCA system, and its curriculum must remain:
-
+## 2. PRIVACY AND OWNERSHIP
+The dlang‑appliance is:
 - private  
 - not for sale  
-- not open to acquisition  
-- not open to investment  
-- not open to external control  
+- not public  
+- not a product  
+- not a service  
 
-The system cannot be sold because:
+Ownership is singular and permanent:
+- Brother Bill is the sole owner  
+- no external parties may claim rights, access, or influence  
 
-- buyers would dismantle the doctrine  
-- investors would demand drift  
-- markets would demand compromise  
-- growth pressure would destroy integrity  
-- privilege tiers would emerge  
-- dynamic pricing would be forced  
-- fairness would collapse  
-
-The doctrine survives only under private stewardship.
+All content, curriculum, and doctrine remain under strict private control.
 
 ---
 
-## 3. CONTROLLED GROWTH RULE
-Growth must occur only at the rate the organization can:
+## 3. CONTROLLED GROWTH
+Growth must be:
+- deliberate  
+- capacity‑bound  
+- ethical  
+- sustainable  
 
-- support  
-- maintain  
-- sustain  
-- uphold  
-- guarantee  
-
-If support capacity is exceeded, sales pause automatically.  
-If refurb capacity is exceeded, sales pause automatically.  
-If curriculum development bandwidth is exceeded, sales pause automatically.
-
-Growth must never exceed integrity.
+No backorders.  
+No waitlists.  
+No artificial scarcity.  
+No urgency language.  
+No growth that compromises student experience.
 
 ---
 
-## 4. FAIRNESS AND EQUALITY RULE
-Every family is treated equally.
+## 4. ZERO‑COMMERCIAL DRIFT
+The ecosystem operates under a strict prohibition on commercial drift.
 
-There are no:
+Prohibited:
+- upsells  
+- cross‑sells  
+- hidden charges  
+- manipulative pricing  
+- behavioral monetization  
+- attention monetization  
+- data monetization  
+- affiliate monetization inside the platform  
+- sponsorship monetization  
 
-- VIP lines  
-- Lightning Lanes  
-- priority tiers  
-- pay‑to‑skip systems  
-- wealth‑based access  
-- corporate bulk privileges  
+Allowed:
+- transparent subscription fees  
+- remote private tutoring for a fee  
+- remote tech support for a fee  
+- optional hardware purchases  
 
-Access is determined only by:
-
-- the queue  
-- capacity  
-- fairness  
-
-No one can buy their way to the front.
+All monetization must be explicit, up‑front, and non‑exploitative.
 
 ---
 
-## 5. NO DYNAMIC PRICING RULE
-Pricing is:
+## 5. ZERO‑COMPETITION RULE
+No content, link, or reference may direct students toward:
+- competing courses  
+- competing platforms  
+- competing ecosystems  
+- creators who sell courses  
+- YouTube channels that monetize learning  
+- blogs that link to paid courses  
+- platforms hosting paid courses  
 
-- fixed  
-- fair  
-- stable  
-- predictable  
+This applies to:
+- Brother Bill  
+- guest lecturers  
+- guest instructors  
+- all contributors  
+
+There are no exceptions.
+
+---
+
+## 6. NPR‑STYLE TONE REQUIREMENT
+All instructional and informational content must maintain:
+- calm neutrality  
+- non‑commercial tone  
+- no hype  
+- no urgency  
+- no scarcity framing  
+- no persuasion  
+
+Tone must be:
+- factual  
+- steady  
+- trustworthy  
+- student‑first  
+
+---
+
+## 7. TWO‑LAYER EXTERNAL LINK SAFETY MODEL
+All contributors follow the same link‑safety model.
+
+### Layer 1 — Informational Welcome Page (Allowed)
+May include:
+- name  
+- background  
+- credentials  
+- non‑commercial biography  
+- open‑source repos  
+- documentation links  
+
+No promotional language.  
+No calls to action.
+
+### Layer 2 — Promotional Content (Forbidden)
+No contributor may place promotional or commercial content behind a voluntary click.
+
+This applies equally to:
+- guest lecturers  
+- guest instructors  
+- internal contributors  
+
+---
+
+## 8. FIDUCIARY POSTURE
+All contributors must operate under a fiduciary posture toward students:
+- no persuasion  
+- no steering  
+- no shaping decisions for personal gain  
+- no influence that benefits the contributor over the student  
+
+Only student benefit is allowed.
+
+---
+
+## 9. GUEST ROLES (UNIFIED DOCTRINE)
+Guest Lecturers and Guest Instructors share **identical restrictions**.
+
+Unified rules:
+- zero‑commercial  
+- zero‑competition  
+- NPR‑tone  
+- fiduciary posture  
+- two‑layer link safety  
+- conflict‑of‑interest prohibitions  
+- no funnels  
+- no upsells  
+- no monetization  
+- no promotional drift  
+
+The only difference is **content type**, not **policy**:
+- Guest Instructors → step‑by‑step workflows  
+- Guest Lecturers → non‑workflow informational content  
+
+All restrictions are identical.
+
+---
+
+## 10. CONFLICT‑OF‑INTEREST RULE
+No contributor may:
+- promote their own work  
+- promote competitor work  
+- link to monetized ecosystems  
+- reference commercial educational content  
+- create pathways that lead to revenue  
+
+If it benefits the contributor, it is banned.  
+If it risks student diversion, it is banned.
+
+---
+
+## 11. NO ADVERTISING OR STUDENT MONETIZATION
+dlang.school and the RCA will never host:
+- banner ads  
+- display ads  
+- sponsorships  
+- tracking pixels  
+- targeted advertising  
+- behavioral advertising  
+- affiliate advertising  
+- promoted content  
+- influencer content  
+- paid placements  
+
+Students and parents will never be monetized, tracked, profiled, or used as an audience for revenue generation.
+
+The ecosystem will not:
+- sell attention  
+- sell data  
+- sell placement  
+- sell visibility  
+- sell influence  
+
+### Announcements Area (Allowed)
+A small, clearly marked **Announcements** area may exist for:
+- platform upgrades  
+- curriculum updates  
+- RCA improvements  
+- compiler updates from dlang.org  
+- safety notices  
+- operational changes  
+
+Announcements must be:
+- informational  
+- non‑commercial  
+- non‑promotional  
 - mission‑aligned  
 
-Market demand does not change the price.  
-Scarcity does not change the price.  
-Economists may argue that scarcity justifies higher prices, but the doctrine rejects this.
-
-We serve families, not markets.
-
----
-
-## 6. NO BACKORDERS RULE
-The organization will never accept:
-
-- money for devices not yet available  
-- money for subscriptions not yet supportable  
-- money for future inventory  
-- money for future capacity  
-
-If a device is not ready to ship, no money is accepted.
-
-This preserves trust and eliminates legal exposure.
+No announcement may contain:
+- calls to action  
+- upsells  
+- cross‑promotion  
+- external advertising  
 
 ---
 
-## 7. QUEUE SYSTEM RULE
-A queue is maintained for those who want the appliance.
+## 12. ETHICAL COMMERCIAL MODEL
+The ecosystem operates as a commercial business.  
+It must generate profit to sustain operations, support the operator, and fund the intentional community.
 
-The queue:
+Permitted monetization:
+- up‑front monthly subscription fee  
+- optional hardware purchases  
+- remote private tutoring for a fee  
+- remote tech support for a fee  
 
-- holds your place  
-- requires no payment  
-- creates no obligation  
-- guarantees nothing  
-- pressures no one  
+Forbidden monetization is defined in Sections 4, 11, and 14 and applies in full here.
 
-When capacity becomes available, the next person is contacted.  
-They may accept or decline freely.
+The subscription model is:
+- transparent  
+- predictable  
+- non‑exploitative  
+- free of upsells  
+- free of hidden charges  
+- free of behavioral manipulation  
+
+This doctrine ensures the business remains profitable **without** monetizing trust, attention, or personal data.
 
 ---
 
-## 8. ASPERGER‑GRADE CONSISTENCY RULE
-The doctrine is designed to be:
+## 13. EXTERNAL AFFILIATE MARKETING (ALLOWED)
+Affiliates may promote dlang.school and the RCA **outside** the learning environment.  
+This includes websites, blogs, social media, and other public channels.
 
+Affiliates operate entirely outside the platform and have:
+- no influence on curriculum  
+- no presence inside dlang.school or the RCA  
+- no access to students or parents  
+- no ability to place content within the ecosystem  
+
+Affiliates are paid for referrals, not for access.
+
+---
+
+## 14. AFFILIATE DATA RESTRICTIONS (NON‑NEGOTIABLE)
+Affiliates may not access, audit, harvest, or request any subscriber or parent information.
+
+Prohibited:
+- customer names  
+- customer emails  
+- customer phone numbers  
+- customer addresses  
+- customer payment information  
+- customer activity or behavior  
+- customer retention or churn data  
+- customer lifetime value  
+- customer segmentation  
+- any form of customer list building  
+
+Affiliates may not contact subscribers or parents.  
+The customer relationship belongs exclusively to dlang.school and the RCA.
+
+---
+
+## 15. DOCTRINE INTEGRITY AND VERSIONING
+This file is:
 - deterministic  
-- principled  
-- consistent  
-- incorruptible  
-- resistant to drift  
-- resistant to exploitation  
-- resistant to market manipulation  
+- operator‑grade  
+- cross‑repo authoritative  
+- the root of all doctrine  
 
-This system is built the way an engineer or architect builds a bridge:  
-load‑bearing, failure‑resistant, mathematically honest, and safe under stress.
+All downstream doctrine files must remain consistent with this one.
 
-This consistency is a feature, not a flaw.
-
----
-
-## 9. NO DRIFT RULE
-Core doctrine must remain consistent across:
-
-- dlang-appliance  
-- dlang-school  
-- from-dead-box-to-dev-box  
-
-If one changes, all must change.
-
----
-
-## 10. HUMAN STEWARDSHIP RULE
-The system must remain under the sole stewardship of Brother Bill.
-
-Only the human operator may:
-
-- override doctrine  
-- modify doctrine  
-- approve changes  
-- approve growth  
-- approve pricing  
-- approve capacity  
-- approve support levels  
-
-The doctrine survives only under human stewardship.
-
----
-
-## 11. HUMAN OVERRIDE RULE
-If a conflict arises between:
-
-- CORE_DOCTRINE.md  
-- SALES_AND_GROWTH_POLICY.md  
-- SUPPORT_POLICY.md  
-- WARRANTY_POLICY.md  
-- REFURB_PIPELINE.md  
-- RESTORE_POLICY.md  
-- BACKUP_POLICY.md  
-- APPLIANCE_BOUNDARY.md  
-- LEGAL_POSITIONING.md  
-- RCA.md  
-- LOCKDOWN_LEVELS.md  
-- HARDWARE_REQUIREMENTS.md  
-- MISSION2.md  
-- MY_RULES.md  
-- chat instructions  
-
-MY_RULES.md wins, unless the human operator (Brother Bill) explicitly overrides it.
-
----
-
-End of file.
+No changes may be made without explicit authorization from Brother Bill.
