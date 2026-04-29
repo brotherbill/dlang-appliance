@@ -5,7 +5,6 @@
 # Non‑Negotiable. Operator‑Grade. Deterministic.
 
 This doctrine governs all guest instructors contributing instructional sequences, walkthroughs, or RCA‑aligned workflows within the dlang‑appliance ecosystem.  
-Guest instructors operate under stricter rules than guest lecturers due to the depth of trust created by step‑by‑step instruction.
 
 ---
 
@@ -21,6 +20,7 @@ Guest instructors are:
 - ecosystem‑strengthening  
 
 Guest instructors are **not**:
+- competitors
 - vendors  
 - marketers  
 - funnel builders  
@@ -70,11 +70,6 @@ No calls to action.
 
 ### Layer 2 — Promotional Content (Forbidden)
 Guest instructors may **not** place promotional or commercial content behind a voluntary click.  
-Guest lecturers may; guest instructors may not.
-
-Reason: instructional trust creates conversion power.  
-Conversion power creates funnels.  
-Funnels violate doctrine.
 
 ---
 
@@ -140,7 +135,7 @@ Content must not include:
 
 ## 8. MUTUAL RIGHT OF REMOVAL
 Guest instructors may remove their content at any time.  
-dlang‑appliance may remove guest instructor content at any time.  
+dlang.school may remove guest instructor content at any time.  
 No notice required.  
 No explanation required.
 
@@ -159,6 +154,7 @@ Guest instructors must pass:
 
 ## 10. THE BROTHER BILL TEST
 A guest instructor passes if:
+- their instruction is solid, clear, has right tone, and can be followed by an 11 year old.
 - their presence strengthens the ecosystem  
 - their motives align with student benefit  
 - their content is deterministic  
