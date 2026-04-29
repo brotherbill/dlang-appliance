@@ -4,7 +4,10 @@
 # Guest Instructor Policy  
 # Non‑Negotiable. Operator‑Grade. Deterministic.
 
-This doctrine governs all guest instructors contributing instructional sequences, walkthroughs, or RCA‑aligned workflows within the dlang‑appliance ecosystem.  
+This doctrine governs all guest instructors contributing step‑by‑step instructional sequences, RCA workflows, or deterministic walkthroughs within the dlang‑appliance ecosystem.
+
+Guest Instructors and Guest Lecturers now operate under **identical restrictions**.  
+The only difference is **content type**, not **policy**.
 
 ---
 
@@ -15,12 +18,11 @@ Guest instructors provide:
 - mission‑aligned technical guidance  
 
 Guest instructors are:
-- mission‑driven  
+- mission‑aligned  
 - prestige‑driven  
 - ecosystem‑strengthening  
 
 Guest instructors are **not**:
-- competitors
 - vendors  
 - marketers  
 - funnel builders  
@@ -29,7 +31,7 @@ Guest instructors are **not**:
 ---
 
 ## 2. ZERO‑COMMERCIAL RULE (ABSOLUTE)
-Guest instructors operate under a **total commercial blackout**.
+Guest instructors operate under a **total commercial blackout**, identical to guest lecturers.
 
 Prohibited:
 - paid courses  
@@ -54,7 +56,7 @@ No exceptions.
 ---
 
 ## 3. TWO‑LAYER EXTERNAL LINK SAFETY MODEL
-Guest instructors follow the NPR‑style safety model with stricter enforcement.
+Guest instructors follow the same NPR‑style safety model as guest lecturers.
 
 ### Layer 1 — Informational Welcome Page (Allowed)
 May include:
@@ -69,7 +71,9 @@ No promotional language.
 No calls to action.
 
 ### Layer 2 — Promotional Content (Forbidden)
-Guest instructors may **not** place promotional or commercial content behind a voluntary click.  
+Guest instructors may **not** place promotional or commercial content behind a voluntary click.
+
+This is now unified with the lecturer rule.
 
 ---
 
@@ -97,6 +101,7 @@ Instruction must be:
 - stepwise  
 - deterministic  
 - reproducible  
+- aligned with MY_RULES.md  
 
 ---
 
@@ -112,6 +117,8 @@ This includes:
 - ecosystems monetizing student attention  
 
 If it can lead a student into a competitor’s revenue stream, it is banned.
+
+This rule is now identical for instructors and lecturers.
 
 ---
 
@@ -130,12 +137,13 @@ Content must not include:
 - unverifiable claims  
 - personal branding  
 - marketing language  
+- commercial drift  
 
 ---
 
 ## 8. MUTUAL RIGHT OF REMOVAL
 Guest instructors may remove their content at any time.  
-dlang.school may remove guest instructor content at any time.  
+dlang‑appliance may remove guest instructor content at any time.  
 No notice required.  
 No explanation required.
 
@@ -154,7 +162,6 @@ Guest instructors must pass:
 
 ## 10. THE BROTHER BILL TEST
 A guest instructor passes if:
-- their instruction is solid, clear, has right tone, and can be followed by an 11 year old.
 - their presence strengthens the ecosystem  
 - their motives align with student benefit  
 - their content is deterministic  

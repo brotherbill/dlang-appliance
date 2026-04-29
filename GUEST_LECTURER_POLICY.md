@@ -1,176 +1,196 @@
 # GUEST_LECTURER_POLICY.md
+###### /dev/repos/dlang-appliance/GUEST_LECTURER_POLICY.md
 
-## 1. PURPOSE AND SCOPE
-This policy defines the ethical, operational, and doctrinal requirements for all guest lecturers contributing written instructional material to dlang.school. It ensures student‑first integrity, protects the privacy and moral purpose of the platform, and maintains cross‑repo consistency with all doctrine files. This policy applies to all guest lecturers, regardless of expertise, affiliation, or contribution volume.
+# Guest Lecturer Policy  
+# Non‑Negotiable. Operator‑Grade. Deterministic.
 
-## 2. CORE PRINCIPLES
-- **No‑Money Rule** — No payment, compensation, referral fees, affiliate links, discounts, or financial incentives are permitted. Guest lecturers participate solely for the benefit of students.
-- **Fiduciary Posture** — Guest lecturers must act in the best interest of students at all times. No self‑promotion, manipulation, or commercial drift is allowed.
-- **NPR‑Style Tone** — Informational, calm, and neutral. No calls to action, no urgency language, no sales framing, and no persuasive marketing techniques.
-- **Two‑Layer External Link Safety Model** —  
-  1. **Layer 1: Informational Welcome Page** — A single, clean, non‑promotional page containing biography, contact information, and factual background.  
-  2. **Layer 2: Voluntary Click‑Through** — Only after the student chooses to click may promotional or commercial content appear.  
-  Guest lecturers may provide only one Layer‑1 link.
-- **Student‑First Ethics** — All content must prioritize clarity, safety, and educational value for students, including minors.
-- **Brother Bill Test** — Content must be clear, honest, non‑salesy, non‑manipulative, and doctrinally consistent. If Brother Bill would flag it, it fails.
+This doctrine governs all guest lecturers contributing non‑workflow informational content within the dlang‑appliance ecosystem.
 
-## 3. CONTENT REQUIREMENTS
-- **Written Material Only** — No video content is permitted. If video is added to the platform in the future, a separate policy will govern guest instructor video contributions.
-- **No Headshots or Photos** — Guest lecturers do not receive a photo or headshot on dlang.school.
-- **No Photos of Brother Bill** — No images, headshots, likenesses, or visual representations of Brother Bill may appear anywhere on dlang.school, guest pages, Layer‑1 pages, Layer‑2 pages, or any linked material.
-- **Allowed Content** —  
-  - Technical explanations  
-  - Worked examples  
-  - Advanced topics  
-  - Professional insights  
-  - Case studies  
-  - Layer‑1 informational biography and contact information  
-- **Prohibited Content** —  
-  - Sales language  
-  - Discounts, coupons, or promotional offers  
-  - Affiliate links  
-  - Calls to action  
-  - Urgency framing  
-  - Manipulative or persuasive techniques  
-  - Embedded commercial messaging  
-  - Any content that violates the Brother Bill Test
+Guest Lecturers and Guest Instructors now operate under **identical restrictions**.  
+The only difference is **content type**, not **policy**.
 
-## 4. TRUSTED‑SOURCE VETTING
-Guest lecturers become trusted sources only after review by dlang.school. Vetting includes:
-- Doctrinal alignment  
-- Tone consistency  
-- Ethical posture  
-- Clean Layer‑1 page  
-- Absence of commercial drift  
-- Demonstrated student‑first intent  
+---
 
-Trusted status may be revoked at any time.
+## 1. ROLE OF GUEST LECTURERS
+Guest lecturers provide:
+- informational, conceptual, or contextual material  
+- non‑workflow explanations  
+- domain expertise without step‑by‑step instruction  
 
-## 5. TWO‑LAYER LINK MODEL DETAILS
-### 5.1 Layer‑1 Informational Page
-The Layer‑1 page must:
-- Contain only factual, non‑promotional information  
-- Include biography, contact information, and business details  
-- Exclude discounts, sales language, or calls to action  
-- Pass the Brother Bill Test  
+Guest lecturers are:
+- mission‑aligned  
+- prestige‑driven  
+- ecosystem‑strengthening  
 
-### 5.2 Layer‑2 Voluntary Click‑Through
-The Layer‑2 destination may contain promotional or commercial content, but only after the student voluntarily clicks through from Layer‑1.
+Guest lecturers are **not**:
+- vendors  
+- marketers  
+- funnel operators  
+- affiliate participants  
 
-## 6. VIOLATIONS AND PENALTIES
-Violations are handled with strict, deterministic consequences:
+---
 
-- **Minor Violations** — Tone drift, unclear language, or borderline promotional phrasing.  
-  - Action: Warning and required correction.
+## 2. ZERO‑COMMERCIAL RULE (ABSOLUTE)
+Guest lecturers operate under a **total commercial blackout**, identical to guest instructors.
 
-- **Moderate Violations** — Repeated tone drift, improper links, or failure to maintain fiduciary posture.  
-  - Action: Link suspension. Suspension is publicly visible as a mark of reprimand.
+Prohibited:
+- paid courses  
+- paid books  
+- consulting  
+- affiliate links  
+- discount codes  
+- “learn more” sales pathways  
+- indirect funnels  
+- delayed funnels  
+- any link that leads to a product or service  
 
-- **Major Violations** — Sales attempts, manipulative content, or breach of the no‑money rule.  
-  - Action: Immediate removal of all guest content. No negotiation.
+Allowed:
+- free, non‑promotional, informational content  
+- open‑source repos  
+- documentation  
+- standards and RFCs  
 
-- **Flagrant Violations** — Intentional manipulation, commercial exploitation, or ethical breaches.  
-  - Action: Permanent removal of content and contributor.
+If it can generate revenue, it is banned.  
+No exceptions.
 
-## 7. MUTUAL RIGHT OF REMOVAL
-- Guest lecturers may remove any or all of their guest content at any time without notice or explanation.  
-- dlang.school holds the same right to remove guest content at any time without notice or explanation.
+---
 
-## 8. TONE ALIGNMENT REQUIREMENTS
-All guest lecturer content must:
-- Match the NPR‑style tone  
-- Maintain clarity and neutrality  
-- Avoid emotional manipulation  
-- Avoid commercial framing  
-- Support student comprehension  
-- Uphold the fiduciary posture  
+## 3. TWO‑LAYER EXTERNAL LINK SAFETY MODEL
+Guest lecturers follow the same NPR‑style safety model as guest instructors.
 
-Tone violations are treated as doctrinal violations.
+### Layer 1 — Informational Welcome Page (Allowed)
+May include:
+- name  
+- background  
+- credentials  
+- non‑commercial biography  
+- open‑source repos  
+- documentation links  
 
-## 9. CROSS‑REPO CONSISTENCY
-This policy aligns with and inherits constraints from:
-- WARRANTY_POLICY.md  
-- APPLIANCE_BOUNDARY.md  
-- LEGAL_POSITIONING.md  
-- REFURB_PIPELINE.md  
-- SUPPORT_POLICY.md  
-- CORE_DOCTRINE.md  
-- CONTENT_PRODUCTION_POLICY.md  
-- SUBSCRIPTION_POLICY.md  
+No promotional language.  
+No calls to action.
 
-Any conflict is resolved in favor of student‑first ethics and the no‑money rule.
+### Layer 2 — Promotional Content (Forbidden)
+Guest lecturers may **not** place promotional or commercial content behind a voluntary click.
 
-## 10. ENFORCEMENT AUTHORITY
-The platform administrators, under the authority of Brother Bill, enforce this policy deterministically. No exceptions, no ambiguity, no parallel steps.
+This is now unified with the instructor rule.
 
-## 11. OUTBOUND LINKS INSIDE COURSE CONTENT
+---
 
-Guest lecturers may not include outbound links inside course lessons, examples, exercises, explanations, footnotes, or any instructional material, except as permitted under this section.
+## 4. FIDUCIARY POSTURE
+Guest lecturers must operate under a fiduciary posture toward students:
+- no persuasion  
+- no upsell  
+- no steering  
+- no shaping decisions for personal gain  
 
-### 11.1 Default Rule: No Outbound Links
-Outbound links inside course content are prohibited by default. This prevents:
-- commercial drift
-- tone violations
-- manipulation or persuasion
-- redirection of student attention
-- circumvention of the Layer‑1 safety model
-- unauthorized exposure of students (including minors) to external environments
+Only student benefit is allowed.
 
-### 11.2 Exception: Required Technical References (Strictly Controlled)
-A guest lecturer may include a link **only if**:
-- the link is required for technical accuracy, AND
-- the link points to a neutral, non‑commercial, documentation‑grade resource, AND
-- the link does not contain sales language, tracking, cookies, or promotional framing.
+---
 
-Permitted examples:
-- Official language documentation  
-- Official library documentation  
-- Official standards documents  
+## 5. TONE REQUIREMENTS
+Guest lecturers must maintain:
+- NPR‑style neutrality  
+- calm, non‑commercial tone  
+- no hype  
+- no urgency language  
+- no scarcity framing  
 
-Prohibited examples:
-- Blog posts  
-- Personal websites  
-- YouTube videos  
-- Courses  
-- Consulting pages  
-- Product pages  
-- Affiliate links  
-- Any site containing ads, tracking, or commercial framing  
+Content must be:
+- clear  
+- factual  
+- non‑promotional  
+- aligned with MY_RULES.md  
 
-### 11.3 No Links to Guest Lecturer Properties
-Guest lecturers may not link to:
-- their own website  
-- their own business  
-- their own courses  
-- their own social media  
-- their own GitHub (unless the repo is strictly technical and non‑commercial)  
-- any site that could benefit them financially or reputationally  
+---
 
-All such links must remain confined to the **Layer‑1 informational welcome page**.
+## 6. COMPETITOR AND CONFLICT‑OF‑INTEREST RULE
+Guest lecturers may **not** promote, reference, or link to any commercial course, platform, or product that competes with dlang.school or dlang‑appliance — **even if free**, **even if indirect**, **even if voluntary‑click**.
 
-### 11.4 No Links to dlang.school Competitors
-Guest lecturers may not link to:
-- competing courses  
-- competing platforms  
-- competing curriculum  
-- competing appliances  
-- competing educational products  
+This includes:
+- paid competitor courses  
+- free competitor courses  
+- YouTube channels that sell courses  
+- blogs linking to paid courses  
+- platforms hosting paid courses  
+- ecosystems monetizing student attention  
 
-### 11.5 No Links to the D Language Appliance (DLA)
-To preserve the appliance boundary and prevent commercial drift:
-- No guest lecturer may link to the DLA  
-- No guest lecturer may reference the DLA in a way that implies availability, purchase, or acquisition  
-- All DLA‑related content remains under the APPLIANCE_BOUNDARY.md doctrine
+If it can lead a student into a competitor’s revenue stream, it is banned.
 
-### 11.6 Enforcement
-Violations of this section are treated as:
-- **Moderate violations** for accidental or borderline links  
-- **Major violations** for intentional or repeated linking  
-- **Flagrant violations** for commercial, promotional, or self‑benefiting links  
+This rule is now identical for lecturers and instructors.
 
-Penalties include:
-- warning  
-- required correction  
-- link suspension (publicly visible)  
-- removal of guest content  
-- permanent removal for repeated or intentional violations
+---
+
+## 7. CONTENT REQUIREMENTS
+Content must be:
+- original  
+- human‑authored  
+- deterministic  
+- operator‑grade  
+- aligned with MY_RULES.md  
+
+Content must not include:
+- unverifiable claims  
+- personal branding  
+- marketing language  
+- commercial drift  
+
+---
+
+## 8. MUTUAL RIGHT OF REMOVAL
+Guest lecturers may remove their content at any time.  
+dlang‑appliance may remove guest lecturer content at any time.  
+No notice required.  
+No explanation required.
+
+---
+
+## 9. TRUSTED‑SOURCE VETTING
+Guest lecturers must pass:
+- technical accuracy review  
+- tone alignment review  
+- zero‑commercial compliance review  
+- conflict‑of‑interest screening  
+- reputation and ecosystem alignment review  
+- the Brother Bill Test  
+
+---
+
+## 10. THE BROTHER BILL TEST
+A guest lecturer passes if:
+- their presence strengthens the ecosystem  
+- their motives align with student benefit  
+- their content is deterministic  
+- their tone is NPR‑aligned  
+- their links are safe and non‑commercial  
+- their participation introduces zero commercial drift  
+
+If any part fails, the lecturer is not eligible.
+
+---
+
+## 11. VIOLATIONS AND PENALTIES
+Violations include:
+- commercial content  
+- funnel behavior  
+- competitor linkage  
+- tone violations  
+- fiduciary breaches  
+
+Penalties:
+- immediate removal of content  
+- immediate removal of lecturer status  
+- permanent ineligibility  
+- no appeal  
+
+---
+
+## 12. VERSIONING AND DOCTRINE INTEGRITY
+This file is:
+- deterministic  
+- operator‑grade  
+- cross‑repo consistent  
+- authoritative  
+
+All future changes require explicit authorization from Brother Bill.
+
